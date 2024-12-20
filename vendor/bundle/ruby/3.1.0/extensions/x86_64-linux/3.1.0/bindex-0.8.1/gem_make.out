@@ -1,0 +1,18 @@
+current directory: /home/artemruby/ruby1/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/usr/bin/ruby3.1 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/artemruby/ruby1/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241209-282610-g7a4lh sitelibdir\=./.gem.20241209-282610-g7a4lh clean
+
+current directory: /home/artemruby/ruby1/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241209-282610-g7a4lh sitelibdir\=./.gem.20241209-282610-g7a4lh
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/artemruby/ruby1/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241209-282610-g7a4lh sitelibdir\=./.gem.20241209-282610-g7a4lh install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20241209-282610-g7a4lh/skiptrace/internal
+
+current directory: /home/artemruby/ruby1/vendor/bundle/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20241209-282610-g7a4lh sitelibdir\=./.gem.20241209-282610-g7a4lh clean
